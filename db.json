@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mohit Rajput",
+      "email": "mohit.rajput@djtcorp.in",
+      "password": "abc@12345678"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "Admin Mohit",
+      "email": "mohitlodhi.857@gmail.com",
+      "password": "Mohit007@",
+      "id": 3
+    },
+    {
+      "name": "Awdhesh",
+      "email": "xyz@gmail.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "name": "Admin",
+      "email": "admin.hr@gmail.com",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "name": "Rakesh",
+      "email": "rakesh@gmail.com",
+      "password": "12345678",
+      "id": 6
+    }
+  ],
+  "jobPosts": [
+    {
+      "name": "UI Developer",
+      "description": "Mohit Rajput",
+      "experience": "5+ Yrs",
+      "author": "Mohit Rajput",
+      "skill": "React JS",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
